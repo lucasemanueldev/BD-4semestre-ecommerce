@@ -12,7 +12,7 @@ O banco de dados foi modelado usando a metodologia top-down. Começamos com um m
 
 ## Conteúdo do Repositório
 
-- `schema.sql`: Este arquivo contém o esquema SQL para o banco de dados. Ele inclui os comandos SQL para criar as tabelas e estabelecer as relações no PostgreSQL.
+- `Trabalho Banco de Dados - Loja Virtual.sql`: Este arquivo contém o esquema SQL para o banco de dados. Ele inclui os comandos SQL para criar as tabelas e estabelecer as relações no PostgreSQL.
 
 - `Apresentacao.pdf`: Este arquivo contém os slides da apresentação do projeto. A apresentação explica a aplicação escolhida, apresenta o modelo conceitual, as transformações realizadas, a metodologia adotada, a normalização das tabelas e demonstra a implementação do banco de dados.
 - [Apresentação do Projeto](https://www.canva.com/design/DAFj3SLOnYY/O-oVqqZMEoTZr5tINMFHAg/edit?utm_content=DAFj3SLOnYY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
